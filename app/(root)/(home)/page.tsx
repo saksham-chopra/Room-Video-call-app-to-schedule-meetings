@@ -29,7 +29,7 @@ const Home = () => {
     <section className="flex size-full flex-col gap-5 text-white">
       <div className="h-[303px] w-full rounded-[20px] bg-hero bg-cover">
         <div className="flex h-full f lex-col justify-between max-md:px-5 max-md:py-8 lg:p-11">
-          <h2 className="glassmorphism max-w-[273px] rounded py-2 text-center text-base font-normal">
+          <h2 className="glassmorphism max-w-[273px] max-h-[40px] rounded py-2 text-center text-base font-normal">
             Create Your own meeting Room
           </h2>
           <div className="flex flex-col gap-2">
